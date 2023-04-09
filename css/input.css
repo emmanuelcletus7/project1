@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#Navbar {
+    display: flex;
+    width: 100%;
+}
+
+/* #mid {
+    margin: 3%;
+} */
+/* #mid a{
+    margin: 2%;
+} */
+#map1{
+    background-image: url(../img/istockphoto-1129202445-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lang{
+    background-image: url(../img/langchart.jpg);
+    background-repeat: no-repeat;
+        background-size: cover;
+}
+
+#mobile{
+    background-image: url(../img/barchart.png);
+    background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+}
+
+#radar{
+    background-image: url(../img/radar-chart-2.png);
+    background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+}
+
+#pie{
+    background-image: url(../img/piechart.png);
+    background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+}
+
+#table{
+    background-image: url(../img/table.jpg);
+    background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+}
